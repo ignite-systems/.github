@@ -4,13 +4,6 @@ PR TITLE
 ((feat|ci|build|chore|docs|style|refactor|perf|test|fix)\:)\ (.+)\ \(((AB#|CP3O-|HIPP-)\d+[, ]*)+\)
 -->
 
-
-<!-- 
-PR DESCRIPTION
-- Make sure that any relevant checks are ticked in this template.
-- Mention your work item in your description e.g. "fixes [WORK ITEM ID]" (DO NOT include a link, azure-board/linear will add the link for you). The "fixes" prefix has been provided for you
--->
-
 ### Description of Changes 🛠️
 
 <!--
@@ -20,7 +13,7 @@ PR DESCRIPTION
 - Potential risks
 -->
 
-[DESCRIPTION]
+_DESCRIPTION_
 
 ### Checks ✅
 
@@ -28,8 +21,8 @@ PR DESCRIPTION
 Check the appropriate boxes
 -->
 
-- [ ] 🛠 [Coding Standards](https://www.notion.so/igniteinsurancesystems/Coding-Standards-V1-75774604b94345da992c805908548f88) have been followed
-- [ ] 🧪 [Unit Testing Standards](https://www.notion.so/igniteinsurancesystems/Unit-Testing-Standards-V1-e46a793c3cd546e3a6889092484b69f5) have been followed
+- [ ] 🛠 [Coding Standards](https://www.notion.so/igniteinsurancesystems/Coding-Standards-96913f6025f9475b9c3b2e0c6eeb34e6) have been followed
+- [ ] 🧪 [Unit Testing Standards](https://www.notion.so/igniteinsurancesystems/Unit-Testing-Standards-b92e31c8b2674008bf08f03c115a50bf) have been followed
 
 ---
 
@@ -40,9 +33,3 @@ If this work item requires manual tasks / changes to configuration tag the work 
 #### Will this Change Cause Downtime? 🚨
 
 If this work item requires manual tasks / changes to configuration tag the work item with "Downtime".
-
-#### Temp Environment Needed On This Branch? ☣️
-
-Is this a high risk item? 
-Does this need to be deployed as a feature branch before merging into develop?
-If so, look at making a [temp environment](https://www.notion.so/igniteinsurancesystems/Creating-a-Temporary-Environment-7040052e9c7e450d934b8ce0f314d102) ♾️
