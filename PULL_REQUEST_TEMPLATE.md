@@ -1,7 +1,7 @@
 <!--
 PR TITLE
 ⬆️ Your PR title will become the commit message once it's merged in so make sure it follows this regex pattern:
-((feat|ci|build|chore|docs|style|refactor|perf|test|fix)\:)\ (.+)\ \(((AB#|CP3O-|HIPP-)\d+[, ]*)+\)
+https://github.com/ignite-systems/devops/blob/1563e25d5b5c94b2553109a4be4ba105b85feee7/.github/workflows/pr-title-verify.yml#L23
 -->
 
 ### Description of Changes 🛠️
