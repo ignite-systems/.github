@@ -33,3 +33,10 @@ If this work item requires manual tasks / changes to configuration tag the work 
 #### Will this Change Cause Downtime? 🚨
 
 If this work item requires manual tasks / changes to configuration tag the work item with "Downtime".
+
+---
+
+### Review Checklist 🔎
+Please use the following checklist whilst carrying out a review.
+
+[Pull Request Review Checklist](https://www.notion.so/igniteinsurancesystems/Pull-Request-Review-Checklist-1b6d93de473e80178f7ae094bdb5e4a8?pvs=4) 
