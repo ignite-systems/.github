@@ -46,3 +46,10 @@ If this work item requires manual tasks / changes to configuration tag the work 
 Is this a high risk item? 
 Does this need to be deployed as a feature branch before merging into develop?
 If so, look at making a [temp environment](https://www.notion.so/igniteinsurancesystems/Creating-a-Temporary-Environment-7040052e9c7e450d934b8ce0f314d102) ♾️
+
+---
+
+### Review Checklist 🔎
+Please use the following checklist whilst carrying out a review.
+
+[Pull Request Review Checklist](https://www.notion.so/igniteinsurancesystems/Pull-Request-Review-Checklist-1b6d93de473e80178f7ae094bdb5e4a8?pvs=4) 
