@@ -23,6 +23,7 @@ Check the appropriate boxes
 
 - [ ] 🛠 [Coding Standards](https://www.notion.so/igniteinsurancesystems/Coding-Standards-96913f6025f9475b9c3b2e0c6eeb34e6) have been followed
 - [ ] 🧪 [Unit Testing Standards](https://www.notion.so/igniteinsurancesystems/Unit-Testing-Standards-b92e31c8b2674008bf08f03c115a50bf) have been followed
+- [ ] 🪪 [Security Standards](https://www.notion.so/igniteinsurancesystems/Security-Standards-Developer-Lens-214d93de473e8074a552e38de74da057) have been followed
 
 ---
 
